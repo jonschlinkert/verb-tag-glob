@@ -1,6 +1,6 @@
 # verb-tag-glob [![NPM version](https://badge.fury.io/js/verb-tag-glob.png)](http://badge.fury.io/js/verb-tag-glob)
 
-> Verb tag, for including local documents using glob patterns.
+> Tag for Verb. Use minimatch/glob patterns to include local documents/templates.
 
 ## Install
 Install with [npm](npmjs.org):

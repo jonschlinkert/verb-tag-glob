@@ -1,7 +1,7 @@
 {
   "name": "verb-tag-glob",
-  "description": "Verb tag, for including local documents using glob patterns.",
-  "version": "0.1.1",
+  "description": "Tag for Verb. Use minimatch/glob patterns to include local documents/templates.",
+  "version": "0.1.2",
   "homepage": "https://github.com/jonschlinkert/verb-tag-glob",
   "author": {
     "name": "Jon Schlinkert",
