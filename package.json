@@ -1,0 +1,55 @@
+{
+  "name": "verb-tag-glob",
+  "description": "Verb tag, for including local documents using glob patterns.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jonschlinkert/verb-tag-glob",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/verb-tag-glob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/verb-tag-glob/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonschlinkert/verb-tag-glob/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "docs",
+    "documentation",
+    "generate",
+    "generator",
+    "glob pattern",
+    "glob",
+    "globbing",
+    "markdown",
+    "patterns",
+    "tag",
+    "templates",
+    "verb",
+    "verbtag"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "mocha": "*",
+    "verb": "~0.2.6"
+  },
+  "dependencies": {
+    "fs-utils": "^0.4.3",
+    "lodash": "^2.4.1",
+    "relative": "^0.1.4"
+  }
+}
